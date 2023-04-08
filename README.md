@@ -17,11 +17,11 @@
   <p align="center">
   <a> 
     <href="https://github-readme-stats.vercel.app/api?username=4rt3mis4D4&show_icons=true&theme=radical"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=4rt3mis4D4&show_icons=true&theme=radical" alt="coding" height="200" width="500" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=4rt3mis4D4&show_icons=true&theme=radical" alt="coding" height="200" width="400" />
     <href="https://github-readme-stats.vercel.app/api/top-langs/?username=4rt3mis4D4&hide_progress=true&theme=radical">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rt3mis4D4&hide_progress=true&theme=radical" alt="coding" height="200" width="500" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rt3mis4D4&hide_progress=true&theme=radical" alt="coding" height="200" width="400" />
     <href="https://github-readme-streak-stats.herokuapp.com/?user=4rt3mis4D4&theme=radical">
-    <img align="center" alt="coding" height="300" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=4rt3mis4D4&theme=radical" "https://git.io/streak-stats" />
+    <img align="center" alt="coding" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=4rt3mis4D4&theme=radical" "https://git.io/streak-stats" />
   </a>
   </p>  
  
