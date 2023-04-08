@@ -25,7 +25,7 @@
   </a>
   </p>  
 
-![Snake Animation](https://github.com/4rt3mis4D4/4rt3mis4D4.git/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/4rt3mis4D4/4rt3mis4D4/blob/output/github-contribution-grid-snake.svg)
 
       
     
