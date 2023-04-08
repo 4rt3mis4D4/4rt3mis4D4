@@ -11,7 +11,7 @@
 ##
 
 <a> 
-  <img align="center" alt="Coding" width="1200" src="https://blog.appi9.com/wp-content/uploads/2020/06/1_L_QoAG863l8QvqxpNyBiqw.gif">
+  <img align="center" alt="Coding" height="450" width="1200" src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif">
 </a>  
 
   <p align="center">
