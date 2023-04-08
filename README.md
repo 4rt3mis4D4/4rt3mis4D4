@@ -24,12 +24,8 @@
     <img align="center" alt="coding" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=4rt3mis4D4&theme=radical" "https://git.io/streak-stats" />
   </a>
   </p>  
- 
-##
 
-<p align="center">
-  <img src="https://github.com/4rt3mis4D4/4rt3mis4D4/raw/output/github-contribution-grid-snake.svg" alt="snake"> </center>
-</p>
+!{Snake Animation](https://github.com/4rt3mis4D4/4rt3mis4D4/blob/output/github-contribution-grid-snake.svg)
 
       
     
