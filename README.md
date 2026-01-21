@@ -26,9 +26,8 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
   </p>  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph.svg">
+  ![pacman contribution graph](https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+  ![pacman contribution graph](https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph.svg#gh-light-mode-only)
 </picture>
 
 
