@@ -53,13 +53,8 @@ Tenho foco em **aprendizado contínuo**, aplicação de **boas práticas de prog
 
 ### 🕹️ Commits
 
-<p align="center">
-  <img 
-    src="https://github.com/4rt3mis4D4/4rt3mis4D4/raw/main/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"
-    alt="Pacman Contribution Graph Dark"
-  />
-  <img 
-    src="https://github.com/4rt3mis4D4/4rt3mis4D4/raw/main/output/pacman-contribution-graph.svg#gh-light-mode-only"
-    alt="Pacman Contribution Graph Light"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph.svg">
+</picture>
