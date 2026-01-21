@@ -24,16 +24,15 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
     <img align="center" alt="coding" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=4rt3mis4D4&theme=radical" "https://git.io/streak-stats" />
   </a>
   </p>  
+##
+      
+<p align="center">
+  <img src="https://github.com/4rt3mis4D4/4rt3mis4D4/raw/main/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" />
+  <img src="https://github.com/4rt3mis4D4/4rt3mis4D4/raw/main/output/pacman-contribution-graph.svg#gh-light-mode-only" />
+</p>
 
-<img
-  src="https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"
-  alt="pacman contribution graph"
-/>
+##
 
-<img
-  src="https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph.svg#gh-light-mode-only"
-  alt="pacman contribution graph"
-/>
 
 
       
