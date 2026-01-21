@@ -11,7 +11,7 @@
 
 ### 👩‍💻 Sobre mim & Tecnologias
 
-Sou estudante de **Ciência da Computação**, utilizando este perfil para compartilhar projetos acadêmicos, exercícios práticos e experimentos que refletem minha evolução como desenvolvedora. Tenho foco em **aprendizado contínuo**, aplicação de **boas práticas de programação** e exploração de **novas tecnologias**.
+Sou estudante de **Ciência da Computação** e utilizo este perfil para compartilhar projetos acadêmicos, exercícios práticos e experimentos que refletem minha evolução como desenvolvedora, mantendo foco em **aprendizado contínuo**, aplicação de **boas práticas de programação** e exploração de **novas tecnologias**.
 
 - 🎓 Estudante de Ciência da Computação  
 - 📌 Pronomes: Ela/Dela  
