@@ -67,8 +67,8 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
-</b> 
-</b> 
+<br> 
+<br> 
 
 ### 📊 Estatísticas
 
@@ -89,8 +89,7 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
   />
 
 </p>
-</b> 
-</b> 
+<br>
       
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4rt3mis4D4/4rt3mis4D4/output/pacman-contribution-graph-dark.svg">
