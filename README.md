@@ -66,6 +66,8 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+</b>
+</b>
 
 ### 📊 Estatísticas
 
