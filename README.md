@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
 - 🎓 Estudante de Ciência da Computação
 - 📌 Pronomes: Ela/Dela
 - 🎯 Foco: Aprendizado contínuo e desenvolvimento prático
-- 🐞 Lutadora de bugs (com persistência 😄)
+- 🐞 Lutadora de bugs 
 - 🚀 Desenvolvedora em evolução (nível intermediário)
 ##
 
@@ -25,7 +25,12 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
   </a>
   </p>  
 
-![Snake Animation](https://github.com/4rt3mis4D4/4rt3mis4D4/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 
       
     
