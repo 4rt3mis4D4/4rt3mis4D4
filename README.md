@@ -1,13 +1,13 @@
 [![MasterHead](https://github.com/user-attachments/assets/7c1cb7ca-3cd3-4280-b1cc-83296f0c340b)](https://github.com/4rt3mis4D4)
 
 ##
- ✒ 𝐒𝐨𝐮 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐭𝐞 𝐝𝐞 𝐂𝐢ê𝐧𝐜𝐢𝐚 𝐝𝐚 𝐂𝐨𝐦𝐩𝐮𝐭𝐚çã𝐨 𝐞 𝐮𝐭𝐢𝐥𝐢𝐳𝐨 𝐞𝐬𝐭𝐞 𝐩𝐞𝐫𝐟𝐢𝐥 𝐩𝐚𝐫𝐚 𝐫𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐫 𝐦𝐢𝐧𝐡𝐚 𝐭𝐫𝐚𝐣𝐞𝐭ó𝐫𝐢𝐚 𝐝𝐞 𝐚𝐩𝐫𝐞𝐧𝐝𝐢𝐳𝐚𝐝𝐨. 𝐀𝐪𝐮𝐢 𝐜𝐨𝐦𝐩𝐚𝐫𝐭𝐢𝐥𝐡𝐨 𝐩𝐫𝐨𝐣𝐞𝐭𝐨𝐬 𝐚𝐜𝐚𝐝ê𝐦𝐢𝐜𝐨𝐬, 𝐞𝐱𝐞𝐫𝐜í𝐜𝐢𝐨𝐬 𝐩𝐫á𝐭𝐢𝐜𝐨𝐬 𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐨𝐬 𝐪𝐮𝐞 𝐫𝐞𝐟𝐥𝐞𝐭𝐞𝐦 𝐦𝐢𝐧𝐡𝐚 𝐞𝐯𝐨𝐥𝐮çã𝐨. 𝐌𝐞𝐮 𝐨𝐛𝐣𝐞𝐭𝐢𝐯𝐨 é 𝐜𝐫𝐞𝐬𝐜𝐞𝐫 𝐜𝐨𝐦𝐨 𝐝𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐞𝐝𝐨𝐫a, 𝐚𝐩𝐥𝐢𝐜𝐚𝐧𝐝𝐨 𝐛𝐨𝐚𝐬 𝐩𝐫á𝐭𝐢𝐜𝐚𝐬 𝐝𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚çã𝐨, 𝐞𝐱𝐩𝐥𝐨𝐫𝐚𝐧𝐝𝐨 𝐧𝐨𝐯𝐚𝐬 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 𝐞 𝐦𝐨𝐬𝐭𝐫𝐚𝐧𝐝𝐨 𝐜𝐚𝐝𝐚 𝐞𝐭𝐚𝐩𝐚 𝐝𝐞𝐬𝐬𝐚 𝐣𝐨𝐫𝐧𝐚𝐝𝐚. 
+Sou estudante de Ciência da Computação e utilizo este perfil para compartilhar projetos acadêmicos, exercícios práticos e experimentos que demonstram minha evolução como desenvolvedora. Meu foco é aprimorar minhas habilidades técnicas, aplicar boas práticas de programação e explorar novas tecnologias ao longo do meu processo de aprendizado contínuo. 
 
--  🎓 Ｅｓｔｕｄａｎｔｅ 
--  📌 Ｅｌａ／Ｄｅｌａ
--  📆 20 ａｎｏｓ
--  ⛳ Ｌｕｔａｄｏｒａ ｄｅ Ｂｕｇｓ
--  🚀 Ｄｅｓｅｎｖｏｌｖｅｄｏｒａ Ｉｎｔｅｒｍｅｄｉáｒｉａ
+- 🎓 Estudante de Ciência da Computação
+- 📌 Pronomes: Ela/Dela
+- 🎯 Foco: Aprendizado contínuo e desenvolvimento prático
+- 🐞 Lutadora de bugs (com persistência 😄)
+- 🚀 Desenvolvedora em evolução (nível intermediário)
 ##
 
 <a> 
