@@ -8,8 +8,6 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
 - 🎯 Foco: Aprendizado contínuo e desenvolvimento prático
 - 🐞 Lutadora de bugs 
 - 🚀 Desenvolvedora em evolução (nível intermediário)
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
