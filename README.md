@@ -8,22 +8,28 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
 - 🎯 Foco: Aprendizado contínuo e desenvolvimento prático
 - 🐞 Lutadora de bugs 
 - 🚀 Desenvolvedora em evolução (nível intermediário)
-###
+<br/>
+<br/>
 
-<a> 
-  <img align="center" alt="Coding" height="450" width="1200" src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif">
-</a>  
+### 📊 Estatísticas
 
-  <p align="center">
-  <a> 
-    <href="https://github-readme-stats.vercel.app/api?username=4rt3mis4D4&show_icons=true&theme=radical"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=4rt3mis4D4&show_icons=true&theme=radical" alt="coding" height="200" width="400" />
-    <href="https://github-readme-stats.vercel.app/api/top-langs/?username=4rt3mis4D4&hide_progress=true&theme=radical">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rt3mis4D4&hide_progress=true&theme=radical" alt="coding" height="200" width="400" />
-    <href="https://github-readme-streak-stats.herokuapp.com/?user=4rt3mis4D4&theme=radical">
-    <img align="center" alt="coding" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=4rt3mis4D4&theme=radical" "https://git.io/streak-stats" />
-  </a>
-  </p>  
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
       
 ###
       
