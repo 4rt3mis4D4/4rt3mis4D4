@@ -37,14 +37,12 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
 
 <p align="center">
   <img 
-    height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=4rt3mis4D4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="GitHub Stats"
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=4rt3mis4D4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   <img 
-    height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=4rt3mis4D4&theme=tokyonight&layout=compact&langs_count=9"
-    alt="Top Languages"
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4rt3mis4D4&layout=compact&theme=tokyonight"
   />
 </p>
 
