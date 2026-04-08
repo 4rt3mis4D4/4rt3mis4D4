@@ -22,7 +22,7 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
 <br>
 
 <p align="center">
-  <img alt="Linguagem C" width="35px" src="http://www.w3.org/2000/svg" />
+  <img alt="Linguagem C" width="35px" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
   <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Rust" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
