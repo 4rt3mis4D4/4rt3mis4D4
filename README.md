@@ -22,9 +22,9 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
 <br>
 
 <p align="center">
-  <img alt="Linguagem C" width="35px" src="https://icons8.com.br/icon/40670/c-programming" />
+  <img alt="Linguagem C" width="35px" src="http://www.w3.org/2000/svg" />
   <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Rust" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" />
+  <img alt="Rust" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="CSharp" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
