@@ -40,11 +40,11 @@ Sou estudante de Ciência da Computação e utilizo este perfil para compartilha
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=4rt3mis4D4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api?username=4rt3mis4D4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rt3mis4D4&layout=compact&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=4rt3mis4D4&layout=compact&theme=tokyonight"
   />
 </p>
 
